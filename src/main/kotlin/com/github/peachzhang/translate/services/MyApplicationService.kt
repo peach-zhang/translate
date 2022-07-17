@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.peachzhang.translate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.peachzhang.translate.MyBundle
 
 class MyApplicationService {
 
